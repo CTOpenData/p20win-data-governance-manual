@@ -51,6 +51,24 @@ Upon the written request from a Party, the Data Integration Hub shall disclose a
 
 ## Participating Agencies
 
-The State Department of Education (SDE), the Office of Early Childhood (OEC), the Department of Labor (DOL), the Connecticut State Colleges and Universities (CSCU), the University of Connecticut (UCONN), the Connecticut Conference of Independent Colleges (CCIC), the Department of Social Services (DSS), the Department of Children and Families (DCF), the Office of Higher Education (OHE) and the Connecticut Coalition to End Homelessness (CCEH) are actively collaborating to support the P20 WIN System. The system is designed with flexibility to expand and include additional state agencies or organizations such as the Department of Public Health and the Department of Housing. The process for an agency or state organization to join P20 WIN is defined in the “How to Become a Participating Agency” within this manual.
+The following agencies are actively collaborating to support the P20 WIN system:
+- State Department of Education (SDE),
+- Department of Labor (DOL),
+- Office of Early Childhood (OEC),
+- Connecticut State Colleges and Universities (CSCU),
+- University of Connecticut (UCONN),
+- Connecticut Conference of Independent Colleges (CCIC),
+- Department of Social Services (DSS),
+- Department of Children and Families (DCF),
+- Office of Higher Education (OHE) and
+- Connecticut Coalition to End Homelessness (CCEH),
+- Department of Social Services (DSS),
+- Office of Higher Education,
+- Department of Mental Health and Addiction Services (DMHAS),
+- Connecticut Technical Education and Career Services (CTECS),
+- Judicial Branch Court Support Services Division (JBCSSD), and
+- Office of Workforce Strategy 
+
+The system is designed with flexibility to expand and include additional state agencies or organizations such as the Department of Public Health and the Department of Housing. The process for an agency or state organization to join P20 WIN is defined in the “How to Become a Participating Agency” within this manual.
 
 Each participating agency is responsible for the data that reside in their respective systems.  The Data Governance Policy does not affect data that is not shared through P20 WIN.  Rather, this policy covers only the data that is shared between organizations both at the unit and aggregate level through P20 WIN.  While data will be transported, matched and eventually stored electronically, this manual covers the use of shared data in reports and documents whether electronic or in print.
