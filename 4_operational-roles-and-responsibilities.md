@@ -14,7 +14,7 @@ The Office of Policy and Management serves as the Operating Group for P20 WIN. T
 
 The Operating Group facilitates smooth and efficient operation of P20 WIN for the benefit of the Participating Agencies and the greater benefit of the State of Connecticut. The Office of Policy and Management serves as the Operating Group for P20 WIN. 
 
-Responsibilities:
+The responsibilities of the Operating Group include:
 
 1. Develop a budget in collaboration with Participating Agencies to support costs associated with ongoing operation, maintenance and improvement of P20 WIN.
 2. Develop and submit a budget request for the Operating Group and the P20 WIN Data Sharing process costs, based on recommendations from the Executive Board.
@@ -32,7 +32,7 @@ Responsibilities:
 
 The Department of Labor serves as the Data Integration Hub and provides data matching services for approved data requests. 
 
-Responsibilities:
+The responsibilities of the Data Integration Hub include:
 
 1. Enter into Data Sharing Agreements with Participating Agencies and Data Recipients for approved data requests.
 2. Maintain a secure server that supports approved data matching software and/or methods so that matches can be conducted at optimum speed, privacy, security and accuracy.
